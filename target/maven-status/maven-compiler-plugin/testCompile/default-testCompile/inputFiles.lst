@@ -1,0 +1,8 @@
+/app/applet/src/test/java/com/smartqueue/SmartQueueIntegrationTest.java
+/app/applet/src/test/java/com/smartqueue/service/CheckInServiceTest.java
+/app/applet/src/test/java/com/smartqueue/service/CustomerServiceTest.java
+/app/applet/src/test/java/com/smartqueue/service/DisplayBoardServiceTest.java
+/app/applet/src/test/java/com/smartqueue/service/FeedbackServiceTest.java
+/app/applet/src/test/java/com/smartqueue/service/QrCodeServiceTest.java
+/app/applet/src/test/java/com/smartqueue/service/QueueServiceTest.java
+/app/applet/src/test/java/com/smartqueue/service/StatisticsServiceTest.java

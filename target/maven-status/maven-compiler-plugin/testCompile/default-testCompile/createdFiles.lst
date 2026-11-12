@@ -1,0 +1,8 @@
+com/smartqueue/service/DisplayBoardServiceTest.class
+com/smartqueue/service/CustomerServiceTest.class
+com/smartqueue/service/FeedbackServiceTest.class
+com/smartqueue/service/QueueServiceTest.class
+com/smartqueue/service/CheckInServiceTest.class
+com/smartqueue/service/QrCodeServiceTest.class
+com/smartqueue/SmartQueueIntegrationTest.class
+com/smartqueue/service/StatisticsServiceTest.class
